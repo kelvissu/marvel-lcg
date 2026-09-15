@@ -64303,7 +64303,7 @@
             "type": "Ally",
             "name": "* Valkyrie",
             "subtitle": "Brunnhilde",
-            "desc": {"Cost": "3", "HP": "3", "ATK": "2*", "THW": "1*", "RES": "B", "Class": "Leadership"},
+            "desc": {"Cost": "3", "HP": "3", "ATK": "2*", "THW": "1*", "RES": "B", "Class": "Leadership", "Toughness": "1"},
             "traits": ["ASGARD", "DEFENDER"],
             "set_name": "",
             "text": "Toughness.\n<b>Interrupt</b>: When another ally would be defeated, discard Valkyrie (from play) \u2192 instead heal that ally until they have 1 hit point remaining."
